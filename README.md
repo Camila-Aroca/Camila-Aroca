@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Juan Pérez
 
-<!--
-**Camila-Aroca/Camila-Aroca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **primer año de Ingeniería en Informática** en [Nombre de la Universidad]. Me apasiona la tecnología y estoy emocionado por aprender más sobre programación y desarrollo de software.
 
-Here are some ideas to get you started:
+## 📚 Sobre mí
+- **Carrera**: Ingeniería en Informática
+- **Año**: 1º
+- **Ubicación**: Santiago, Chile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Habilidades
+- **Lenguajes de programación**: Python, Java, HTML, CSS
+- **Tecnologías**: Conocimientos básicos de Git y GitHub
+- **Intereses**: Desarrollo web, inteligencia artificial, y bases de datos
+
+## 📁 Proyectos
+Aún no tengo proyectos personales, pero estoy trabajando en prácticas y ejercicios de clase. Espero compartir mis proyectos a medida que avance en mis estudios.
+
+## 🌐 Enlaces
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil) (opcional)
+- [Twitter](https://twitter.com/tu_usuario) (opcional)
+
+## 🤝 Contribuciones
+Interesado en aprender y colaborar en proyectos de código abierto en el futuro.
+
+## 📈 Estadísticas
+Aún no tengo contribuciones visibles, pero espero involucrarme más en la comunidad.
+
+---
+
+¡Gracias por visitar mi perfil! Estoy abierto a cualquier consejo y colaboración.
+
